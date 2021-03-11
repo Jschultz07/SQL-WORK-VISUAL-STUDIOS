@@ -1,0 +1,5 @@
+Sku,ManufacturerId,Name,CategoryId,Price,CategoryType
+1234,2,Iphone X,2,1999.99,Phone
+2234,1,Surface Book 3,6,5000,Laptop
+1578,3,Galaxy S7,2,865,Phone
+3500,5,Database Systems Concepts,7,350.98,TextBook
